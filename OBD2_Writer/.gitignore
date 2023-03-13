@@ -1,0 +1,16 @@
+__pycache__
+*.whl
+python
+*.zip
+build.bat
+*inputs_test.py
+*j1939-engine.dbc
+*j1939-speed.dbc
+*test_new.py
+*env/*
+*_test*
+*lambda_inputs_test.json*
+*deploy-aws-lambda/env/*
+*ev6-gps.dbc*
+
+*canedge-influxdb-writer.zip*
