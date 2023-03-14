@@ -17,3 +17,11 @@ The steps of this version are as follows:
 5. EC2 Instance host Python script pushes decoded OBD2 data into time series database. 
 
 6. Dashboard application queries time series database to create OBD2 data dashboards. 
+
+<h1> Vehicle Data Platform First Iteration Architecture </h1>
+
+<img src = "Project_Version1.png">
+
+<h1> Grafana Dashboards from Captured Data </h1>
+
+<img src = "Grafana_Live_Dark.png">

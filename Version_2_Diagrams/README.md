@@ -19,3 +19,18 @@ The general steps for data collection using this platform are:
 4. Node.js backend receives OBD2 data and performs processing. Afterwards, data is saved to the MongoDB database organized by vehicle data. 
 
 5. Data saved in the MongoDB database is accessible for processing in dashboards, machine learning, and predictive maintenance. 
+
+# Data Process for GPS Data Integration 
+
+<img src = "GPS_Structure.png">
+
+# Vehicle Data Platform Iteration Two 
+
+<img src = "Project_Version2.png">
+
+# MongoDB Database Schema 
+
+<img src = "MongoDB_vehicle_schema.png">
+
+
+
