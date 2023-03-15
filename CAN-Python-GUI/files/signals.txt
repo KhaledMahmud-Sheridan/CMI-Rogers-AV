@@ -1,0 +1,6 @@
+Message ID: 2024 Signal Name: service                        Signal Value: Show current data 
+Message ID: 2024 Signal Name: S1_PID_0C_EngineRPM            Signal Value: 30.0
+Message ID: 2024 Signal Name: service                        Signal Value: Show current data 
+Message ID: 2024 Signal Name: S1_PID_0C_EngineRPM            Signal Value: 30.0
+Message ID: 2024 Signal Name: service                        Signal Value: Show current data 
+Message ID: 2024 Signal Name: S1_PID_0C_EngineRPM            Signal Value: 5000.0

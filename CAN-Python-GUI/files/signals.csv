@@ -1,0 +1,6 @@
+CAN_ID,Timestamp,Signal_Name,Signal_Data,
+1678460343.5290623,2024,length,255
+1678460343.5290623,2024,response,15
+1678460343.5290623,2024,service,Show current data 
+1678460343.5290623,2024,ParameterID_Service01,S1_PID_0D_VehicleSpeed
+1678460343.5290623,2024,S1_PID_0D_VehicleSpeed,56

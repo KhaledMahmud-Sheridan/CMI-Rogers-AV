@@ -1,0 +1,5 @@
+Timestamp: 1675181224.384274        ID: 07e8    S Rx                DL:  8    ff f1 0c 00 78 00 00 00     Channel: can0
+Timestamp: 1675181503.136955        ID: 07e8    S Rx                DL:  8    ff f1 0c 00 78 00 00 00     Channel: can0
+Timestamp: 1675181504.651367        ID: 07e8    S Rx                DL:  8    ff f1 0c 00 78 00 00 00     Channel: can0
+Timestamp: 1675181528.765570        ID: 07e8    S Rx                DL:  8    ff f1 0c 00 78 00 00 00     Channel: can0
+Timestamp: 1675181552.416251        ID: 07e8    S Rx                DL:  8    ff f1 0c 4e 20 00 00 00     Channel: can0
