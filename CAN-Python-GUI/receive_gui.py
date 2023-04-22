@@ -229,7 +229,7 @@ class MainWindow(QMainWindow):
     def read_channel(self):
         """
         This method reads the currently selected channel and then sends the recorded data to
-        be display on the message display tables and signal display tables. If the data cannot
+        be displayed on the message display tables and signal display tables. If the data cannot
         be decoded using the selected DBC file, no data is appended to the signal table.
         :return:
         """

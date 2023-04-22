@@ -1,6 +1,4 @@
 venv/
 .idea/
 __pycache__/
-documentation/
-.idea
-
+documentations/

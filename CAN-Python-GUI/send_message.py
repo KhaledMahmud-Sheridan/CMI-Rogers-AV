@@ -28,7 +28,7 @@ def send_encoded_message(message_id, message_data, bus_type):
     :return:
     """
     print(message_id)
-    print(message_data)
+    print(f"Message data is: {message_data}")
     bus = buses[bus_type]
     msg = can.Message(arbitration_id=message_id, data=message_data, is_extended_id=True)
     print(msg)
