@@ -1,0 +1,90 @@
+body
+{
+    margin: 0px;
+    font-family: "Verdana";
+}
+
+.wide
+{
+    width: 100%;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.column
+{
+    flex-direction: column;
+    align-items: center;
+}
+
+.row
+{
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.space-between
+{
+    justify-content: space-between;
+}
+
+.space-evenly
+{
+    justify-content: space-evenly;
+}
+
+.start
+{
+    justify-content: start;
+}
+
+.form-gap
+{
+    gap: 1vh;
+    margin: 5vh;
+    width: 30%;
+}
+
+header
+{
+    height: 15vh;
+    border-bottom: 2px black solid;
+}
+
+footer
+{
+    border-top: 2px black solid;
+}
+
+footer, header
+{
+    background-color: #D32F25;
+    color: white;
+    border: 2px black solid;
+}
+
+.message
+{
+    height: 10vh;
+}
+
+.form
+{
+    background-color: #EFEFEF;
+}
+
+.main
+{
+    min-height: 80vh;
+    gap: 2vh;
+}
+
+
+.flex-child-two-row
+{
+    flex-basis: 50%;
+}

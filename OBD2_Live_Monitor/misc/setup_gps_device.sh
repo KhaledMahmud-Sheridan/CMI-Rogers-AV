@@ -1,0 +1,1 @@
+chmod ugo+rwx /dev/ttyACM0
