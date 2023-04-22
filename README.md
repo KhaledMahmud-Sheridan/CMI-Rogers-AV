@@ -1,2 +1,2 @@
 # CMI-Rogers-AV
-Apps, Codes, Documents from CMI-Rogers research on Autonomous Vehicles 
+Apps, Programs, Documents from CMI-Rogers research on Autonomous Vehicles.
